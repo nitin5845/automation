@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo date
-echo ps
+echo "Hello This is Nitin" 
